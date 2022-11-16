@@ -188,7 +188,7 @@
         <akka.version>2.3.4-spark</akka.version>
         <json4s.version>3.2.10</json4s.version>
         <lucene.version>4.10.4</lucene.version>
-        <jackson.version>2.4.4</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <exec.maven.plugin.version>1.4.0</exec.maven.plugin.version>
         <reflections.version>0.9.10</reflections.version>
         <guava.version>18.0</guava.version>
